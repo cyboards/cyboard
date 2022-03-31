@@ -17,10 +17,10 @@
 					"help": {
 						"online": ""
 					},
-					"url": "https://github.com/cyboards/cyboard/archive/25cd937be5bbdd7bca2b88f621558a67e03d7a6e.zip",
-					"archiveFileName": "25cd937be5bbdd7bca2b88f621558a67e03d7a6e.zip",
-					"checksum": "SHA-256:6edd6afea26c3b3eaa14b040193220da9b99495fac83b21281cbb956dac54ddc",
-					"size": "16933",
+					"url": "https://github.com/cyboards/cyboard/archive/refs/heads/master.zip",
+					"archiveFileName": "cyboard-archive.zip",
+					"checksum": "SHA-256:e9e9f4f451377e387b919f6fc86c4c73ef9a29ba8efe252c3ba682fda8021f57",
+					"size": "16353",
 					"boards": [
 						{
 							"name": "Cyboard"
