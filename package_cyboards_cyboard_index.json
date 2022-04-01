@@ -1,0 +1,34 @@
+{
+	"packages": [
+		{
+			"name": "cyboard",
+			"maintainer": "Mihkel Baranov",
+			"websiteURL": "https://github.com/cyboards/cyboard",
+			"email": "info@wellenline.com",
+			"help": {
+				"online": ""
+			},
+			"platforms": [
+				{
+					"name": "cyboard",
+					"architecture": "avr",
+					"version": "1.0.0",
+					"category": "cyboard",
+					"help": {
+						"online": ""
+					},
+					"url": "https://github.com/cyboards/cyboard/archive/9137a2b02b9c56851ae41019d2bedfd27206d424.zip",
+					"archiveFileName": "9137a2b02b9c56851ae41019d2bedfd27206d424.zip",
+					"checksum": "SHA-256:b3b0d46d34113cd5c1ed81e826f0471934756420e6bd89fed12ac9186c546741",
+					"size": "16849",
+					"boards": [
+						{
+							"name": "Cyboard"
+						}
+					]
+				}
+			],
+			"tools": []
+		}
+	]
+}
