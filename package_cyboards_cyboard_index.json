@@ -17,7 +17,7 @@
 					"help": {
 						"online": ""
 					},
-					"url": "https://github.com/cyboards/cyboard/archive/refs/heads/master.zip",
+					"url": "https://github.com/cyboards/cyboard/blob/master/cyboard-archive.zip?raw=true",
 					"archiveFileName": "cyboard-archive.zip",
 					"checksum": "SHA-256:e9e9f4f451377e387b919f6fc86c4c73ef9a29ba8efe252c3ba682fda8021f57",
 					"size": "16353",
